@@ -1,0 +1,22 @@
+{
+  "name": "com.sleddoggames.kokoro4unity",
+  "version": "0.1.0-beta",
+  "displayName": "Kokoro4Unity",
+  "description": "Wrapper on Kokoro Sharp to use kokoro TTS in Unity",
+  "unity": "6000.0",
+  "unityRelease": "24f1",
+  "keywords": [
+    "charactercontroller",
+    "fps",
+    "prototype"
+  ],
+  "author": {
+    "name": "Madison Tobal",
+    "email": "madison.tobal@outlook.com",
+    "url": "https://hangarter.itch.io"
+  },
+  "dependencies": {
+    "com.github-glitchenzo.nugetforunity": "4.4.0",
+    "com.dbrizov.naughtyattributes": "2.1.4"
+  }
+}
