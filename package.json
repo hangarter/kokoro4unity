@@ -1,6 +1,6 @@
 {
   "name": "com.sleddoggames.kokoro4unity",
-  "version": "0.1.1-beta",
+  "version": "0.1.2-beta",
   "displayName": "Kokoro4Unity",
   "description": "Wrapper on Kokoro Sharp to use kokoro TTS in Unity",
   "unity": "6000.0",
